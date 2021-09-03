@@ -34,7 +34,6 @@ Feito junto das aulas do projeto final do Bootcamp Santander da [DIO](https://we
 
 - [x] [Kotlin](https://kotlinlang.org/)
 - [x] [CRUD SQLite](https://developer.android.com/training/data-storage/sqlite)
-- [x] [MVVM](https://developer.android.com/jetpack/guide)
 - [x] [ROOM](https://developer.android.com/training/data-storage/room)
 
 # Requisitos
